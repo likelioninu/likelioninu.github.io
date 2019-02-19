@@ -604,3 +604,12 @@ body span {
   border-radius: 15px;
   margin-right: 10px;
 }
+
+.row {
+  padding-left:110px;
+  padding-top : 50px;
+}
+
+.row .text-center {
+  padding-right : 120px;
+}
